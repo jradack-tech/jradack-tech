@@ -1,26 +1,40 @@
 <h1 align="center">👋 Sr. React Developer</h1>
 <br />
 <h4>
-  - Delivered value iteratively by building high-quality services and tools
+  - Over 7 years of IT experience in all phases of SDLC, like Requirement Analysis, Design, Development, Testing, and Implementation.
 </h4>
 <h4>
-  - Built, maintained, and took ownership of a rich ecosystem of services and tools
+  - Strong knowledge of React template such as Redux, Material UI, Tailwind CSS and Ant Design.
 </h4>
 <h4>
-  - React, troubleshoot and solve operational events
+  - Hands on experience in creating user stories and reports like JIRA, Snagit and working on Work Zone
 </h4>
 
-- 📫 ** React, Next, Vue, Angular **
+  📫 ** React, Next, Vue, Angular **
 
-- 📫 ** Golang, Node.js, Python **
+  📫 ** MUI, Tailwind CSS, Ant Design **
 
-- 📫 ** MongoDB, MySQL, Sqlite, Postgres **
+  📫 ** Golang, Node.js, Python **
 
-- 📫 ** Docker, Kubernate, Trello, Git **
+  📫 ** MongoDB, MySQL, Sqlite, Postgres **
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b><u>jradack.tech@gmail.com</u></b>
+  <b>email</b>: <u>jacob.rd.dev@gmail.com</u><br/>
+  <b>linkedin</b>: <u>https://linkedin.com/in/jacob-rk</u>
+</p>
+
+<h3 align="left">Certify</h3>
+<p align="left">
+  <ul>
+    <li><a href="https://www.hackerrank.com/certificates/2996d693fa0b" target="_blank" rel="noreferrer">React</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/fe81ac028907" target="_blank" rel="noreferrer">Javascript (Basic)</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/43f3b32d2f93" target="_blank" rel="noreferrer">Javascript (Intermediate)</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/e463dc5cae68" target="_blank" rel="noreferrer">Node (Basic)</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/5ded1b99e3f0" target="_blank" rel="noreferrer">Problem Solving (Basic)</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/6116f634bc89" target="_blank" rel="noreferrer">Problem Solving (Intermediate)</a></li>
+  </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
