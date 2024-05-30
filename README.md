@@ -1,4 +1,4 @@
-<h1 align="center">👋 Sr. Golang Developer</h1>
+<h1 align="center">👋 Sr. React/Golang Developer</h1>
 <br />
 <h4>
   - Over 7 years of IT experience in all phases of SDLC, like Requirement Analysis, Design, Development, Testing, and Implementation.
